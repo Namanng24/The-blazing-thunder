@@ -1,2 +1,3 @@
 # The-blazing-thunder
-This is my first project
+This is my first repository
+Author-Naman Goyal
